@@ -1,0 +1,3 @@
+[submodule "TrilobiteLines"]
+	path = TrilobiteLines
+	url = git@github.com:HackTheDeep/TrilobiteLines.git
